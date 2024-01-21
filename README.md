@@ -1,7 +1,7 @@
 # Amazon-sales-dashboard
 This repository contains a Power BI dashboard visualizing Amazon sales data
 
-![Image Alt Text](C:\Users\nprav\Downloads\Sales-Dashboard-in-Power-BI-\background images\screen shot\AMAZON SALES DASHBOARD.png)
+
 
 
 Description:
