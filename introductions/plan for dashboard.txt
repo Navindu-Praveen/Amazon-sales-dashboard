@@ -1,0 +1,42 @@
+1. **Card Visuals:**
+   - Total Sales (Amount)
+   - Total Quantity Sold
+   - Number of Orders
+
+2. **Donut Chart:**
+   - Order Status Distribution (e.g., Pending, Shipped, Delivered)
+
+3. **Stacked Bar Chart:**
+   - Fulfillment Method Distribution
+   - Sales Channel Distribution
+
+4. **Map:**
+   - Geographic Distribution (Top Shipping Cities, States, Countries)
+
+5. **Bar Chart:**
+   - Top Styles in Sales
+   - Top Categories in Sales
+   - Top Sizes in Sales
+
+6. **Line Chart:**
+   - Sales Trend Over Time (Date)
+
+7. **Table:**
+   - Detailed Order Information (Order ID, Date, Status, Fulfillment, etc.)
+
+8. **KPI (Key Performance Indicator):**
+   - Average Order Value
+   - B2B vs. B2C Sales Comparison
+
+9. **Treemap:**
+   - Currency Distribution
+
+10. **Stacked Column Chart:**
+    - Shipping Service Level Distribution
+
+11. **Doughnut Chart or Stacked Bar Chart:**
+    - Courier Status Distribution
+
+12. **Funnel Chart:**
+    - Sales Funnel (if applicable)
+
