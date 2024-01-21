@@ -2,7 +2,7 @@
 This repository contains a Power BI dashboard visualizing Amazon sales data
 
 
-![Screen Shot](background images/screen shot)
+![AMAZON SALES DASHBOARD](https://github.com/Navindu-Praveen/Amazon-sales-dashboard/assets/89752602/3ef1fa0b-090a-4620-bc02-27a196958282)
 
 
 Description:
