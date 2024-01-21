@@ -2,6 +2,7 @@
 This repository contains a Power BI dashboard visualizing Amazon sales data
 
 
+![Screen Shot](background images/screen shot)
 
 
 Description:
