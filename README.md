@@ -14,7 +14,13 @@ Overview of sales performance over time.
 Top-selling products and their contribution to revenue.
 Geographic distribution of sales.
 Monthly revenue trends.
+
+
+
 How to Use:
+
+![easy to use](https://github.com/Navindu-Praveen/Amazon-sales-dashboard/assets/89752602/5bd4499f-e194-4557-8041-a93ee421576f)
+
 
 Download and install Power BI Desktop.
 Clone or download this repository to your local machine.
