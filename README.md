@@ -26,3 +26,9 @@ Folder Structure:
 Data: Contains the raw data exported from Amazon.
 Dashboard: Contains the Power BI project file (.pbix) and any related assets.
 Screenshots: Includes screenshots of the dashboard for a quick preview.
+
+
+dataset:
+
+![Screenshot (304)](https://github.com/Navindu-Praveen/Amazon-sales-dashboard/assets/89752602/c9051d8f-6259-4b8b-865b-8f36cc460f28)
+
